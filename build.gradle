@@ -13,5 +13,5 @@ dependencies {
 
 application {
     // Define the main class for the application
-    mainClassName = 'com.okta.netty.AppServer'
+    mainClassName = 'org.alexside.netty.server.BrokerServer'
 }
